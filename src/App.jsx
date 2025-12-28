@@ -12,7 +12,7 @@ const App = () => {
       <Welcome />
       <Dock />
       <Terminal />
-      <Safari />
+      {/* <Safari /> */}
       <Resume />
       <Finder />
       <Text />
